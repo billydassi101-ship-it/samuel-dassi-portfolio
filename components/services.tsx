@@ -36,13 +36,13 @@ export default function Services() {
             className="gap-1.5 py-1 px-3 border-primary/30 bg-primary/5 text-primary text-xs font-medium"
           >
             <Sparkles className="size-3.5" />
-            <span>Offre Freelance</span>
+            <span>Domaines d&apos;intervention</span>
           </Badge>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight text-foreground">
-            Services & Offre de conseil
+            Compétences & Savoir-faire
           </h2>
           <p className="text-muted-foreground text-base sm:text-lg leading-relaxed">
-            Accompagnement technique sur-mesure pour concevoir, intégrer et déployer des solutions performantes basées sur l&apos;IA et les données.
+            Les axes d&apos;expertise et cas d&apos;usage techniques sur lesquels j&apos;apporte une valeur ajoutée concrète au sein d&apos;une équipe Data / IA.
           </p>
         </div>
 

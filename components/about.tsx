@@ -59,10 +59,10 @@ export default function About() {
                 <Target className="size-5" />
               </div>
               <h3 className="text-lg font-bold text-foreground">
-                Alternance & Freelance
+                Recherche d&apos;Alternance
               </h3>
               <p className="text-sm text-muted-foreground leading-relaxed">
-                Disponible pour une alternance à compter de Septembre 2026 (AI Engineer / Data Scientist) ainsi que pour des projets de conseil freelance.
+                Recherche active d&apos;un contrat d&apos;alternance (12 à 24 mois) en AI Engineering, Machine Learning ou Data Science, disponible dès Septembre ou Octobre 2026.
               </p>
             </div>
           </Card>

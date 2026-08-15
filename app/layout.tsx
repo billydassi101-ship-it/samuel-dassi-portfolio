@@ -15,9 +15,9 @@ const geistMono = Geist_Mono({
 });
 
 const siteTitle =
-  "Samuel Dassi - AI Engineer | Data Scientist | Generative AI";
+  "Samuel Dassi - AI Engineer | Data Scientist - Recherche d'Alternance (Sept. / Oct. 2026)";
 const siteDescription =
-  "Portfolio de Samuel Dassi - AI Engineer & Data Scientist spécialisé en Machine Learning, Deep Learning et Generative AI. Disponible en alternance et en freelance.";
+  "Portfolio de Samuel Dassi - Étudiant en Master IA à l'Université de Lille, en recherche active d'une alternance en AI Engineering ou Data Science débutant en Septembre ou Octobre 2026.";
 
 export const metadata: Metadata = {
   title: {

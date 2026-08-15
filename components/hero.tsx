@@ -67,10 +67,10 @@ export default function Hero() {
             <div className="flex flex-wrap items-center gap-2.5">
               <Badge
                 variant="outline"
-                className="gap-1.5 py-1 px-3 border-primary/30 bg-primary/5 text-primary text-xs sm:text-sm font-medium"
+                className="gap-1.5 py-1 px-3 border-primary/40 bg-primary/10 text-primary text-xs sm:text-sm font-semibold"
               >
-                <Briefcase className="size-3.5" />
-                <span>Alternance · Septembre 2026</span>
+                <Briefcase className="size-3.5 text-primary" />
+                <span>Recherche d&apos;alternance · Sept. / Oct. 2026</span>
               </Badge>
 
               <Badge
@@ -90,15 +90,13 @@ export default function Hero() {
 
               <p className="text-xl sm:text-2xl md:text-3xl font-medium text-primary flex items-center gap-2 flex-wrap">
                 <Cpu className="size-6 shrink-0 text-primary" />
-                <span>AI Engineer · Data Scientist · Generative AI</span>
+                <span>AI Engineer · Data Scientist · ML Engineer</span>
               </p>
             </div>
 
             {/* Value Proposition / Hook */}
             <p className="text-base sm:text-lg md:text-xl text-muted-foreground leading-relaxed">
-              Je conçois des solutions intelligentes combinant Machine Learning,
-              LLM, RAG et Computer Vision pour transformer des données complexes
-              en applications concrètes.
+              En recherche active d&apos;une alternance de 12 à 24 mois en AI Engineering ou Data Science à compter de Septembre ou Octobre 2026. Je conçois des solutions intelligentes combinant Machine Learning, LLM, RAG et Computer Vision.
             </p>
 
             {/* Key Domain Badges */}

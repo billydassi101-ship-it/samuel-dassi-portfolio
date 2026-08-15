@@ -75,7 +75,7 @@ export default function Contact() {
             Discutons de votre projet
           </h2>
           <p className="text-muted-foreground text-base sm:text-lg leading-relaxed">
-            Disponible pour des opportunités en alternance (AI Engineer / Data Scientist - Septembre 2026) ainsi que pour des missions de conseil et développement freelance.
+            Disponible pour échanger sur des opportunités d&apos;alternance (AI Engineer / Data Scientist / ML Engineer) débutant en Septembre ou Octobre 2026.
           </p>
         </div>
 
