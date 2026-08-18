@@ -141,11 +141,8 @@ export default function Footer() {
         </div>
 
         {/* Copyright Bottom Bar */}
-        <div className="mt-12 pt-8 border-t border-border/40 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-muted-foreground font-mono">
+        <div className="mt-12 pt-8 border-t border-border/40 flex items-center justify-center text-xs text-muted-foreground font-mono">
           <p>© 2026 Samuel Dassi. Tous droits réservés.</p>
-          <p className="text-muted-foreground/60">
-            Portfolio Next.js 16 & TypeScript
-          </p>
         </div>
       </div>
     </footer>
