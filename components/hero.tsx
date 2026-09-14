@@ -90,7 +90,7 @@ export default function Hero() {
 
               <p className="text-xl sm:text-2xl md:text-3xl font-medium text-primary flex items-center gap-2 flex-wrap">
                 <Cpu className="size-6 shrink-0 text-primary" />
-                <span>AI Engineer · Data Scientist · ML Engineer</span>
+                <span>AI Engineer · Data Scientist</span>
               </p>
             </div>
 
